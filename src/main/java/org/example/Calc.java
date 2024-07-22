@@ -11,7 +11,7 @@ public class Calc {
 
     public int sub (int a, int b) {
         int result;
-        result = a - b;
+        result = b - a;
         System.out.println("Вычетание " + a + " из " + b + " равно " + result);
         return result;
     }
