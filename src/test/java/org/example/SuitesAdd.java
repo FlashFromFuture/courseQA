@@ -8,7 +8,7 @@ import org.junit.platform.suite.api.Suite;
 @Suite
 @SelectPackages("org.example")
 @IncludeTags("add")
-public class TestSuitesAdd {
+public class SuitesAdd {
 }
 
 

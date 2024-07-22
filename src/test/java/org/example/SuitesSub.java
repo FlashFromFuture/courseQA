@@ -6,6 +6,6 @@ import org.junit.platform.suite.api.Suite;
 
 @Suite
 @SelectPackages("org.example")
-@IncludeTags("sub")
-public class TestSuitesSub {
+@IncludeTags("add")
+public class SuitesSub {
 }
