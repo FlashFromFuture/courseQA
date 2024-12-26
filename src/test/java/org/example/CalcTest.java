@@ -30,5 +30,6 @@ class CalcTest {
         Calc calc = new Calc();
         int result = calc.sub(b,  a);
         Assertions.assertEquals(expectedResult, result, "Неправильный ответ" );
+
     }
 }
